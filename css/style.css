@@ -1,0 +1,79 @@
+
+ .header{
+ 	height: 100px;
+ 	background: pink;
+ }
+h1{
+	font-size: 50px;
+	color: blue;
+}
+ .wrapper{
+    overflow: hidden;
+    border: double 10px red;
+ }
+
+ .contac{
+ 	float: left;
+ 	width: 60%;
+ 	height: 150px;
+ 	background: greenyellow;
+ 	border: solid 10px teal;
+ 	box-sizing: border-box;
+ 
+ }
+
+ .blog{
+ 	float: right;
+ 	width: 40%;
+ 	height: 150px;
+ 	background: gold;
+ 	border: solid 10px hotpink;
+ 	box-sizing: border-box;
+ }
+  .container{
+  	overflow: hidden;
+  	border: solid 10px hotpink;
+ 	box-sizing: border-box;
+  }
+
+.box{
+ 		width: 33.33%;
+ 		height: 120px;
+ 		float: left;
+
+ 	}
+    .pink{background: teal;
+    border: dotted 5px plum;
+ 	box-sizing: border-box; }
+
+    .green{ background:gold; 
+    border: dotted 5px plum;
+ 	box-sizing: border-box;
+    padding- 50px ;
+}
+
+    .red{ background:red;
+    border: dotted 5px plum;
+ 	box-sizing: border-box; }
+
+ 	.mydiv{
+ 		width: 10px;
+ 		height: 50px;
+ 		color: plum;
+ 		background:black;
+ 		border: dotted 5px red;
+ 		box-sizing: border-box;
+ 		padding: 50px;
+ 		float: left;
+
+ 	}
+
+
+
+ .footer{
+ 	height: 100px;
+ 	background: green;
+ 	border: dotted 7px plum;
+ 	box-sizing: border-box;
+ }
+
